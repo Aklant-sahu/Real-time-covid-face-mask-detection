@@ -1,0 +1,13 @@
+*.jpg
+*.png
+*.tf
+*.data-00000-of-00001
+*.txt
+*.xml.txt
+*.mp4
+*.tf.index
+*.h5
+*.avi
+*.pb
+data/
+final_model/
